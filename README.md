@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **reacy , vue and Spring Boot**
 
-- 📫 How to reach me **ogtayaliyev9@gmai.com**
+- 📫 How to reach me **ogtayaliyev9@gmail.com**
 
 - 📄 Know about my experiences [mon cv responsive](mon cv responsive)
 
