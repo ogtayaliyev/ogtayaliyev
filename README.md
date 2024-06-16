@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Vue JS 3 / Spring Boot / React JS**
 
-- 🤝 I’m looking for help with **Vue Js**
+- 🤝 I’m looking for help with **Deployement**
+  
+- 🌐 My Portfolio : https://ogtay.tech/
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogtayaliyev](https://github.com/ogtayaliyev)
 
