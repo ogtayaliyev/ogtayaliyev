@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ogtay</h1>
-<h3 align="center">I'm passionate about back-end development and web and mobile applications.</h3>
+<h3 align="center">I'm passionate about back-end development(java(Spring Boot) & Expresse.js) and Front-end(Vue.js,Nuxt.js),.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogtayaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="ogtayaliyev" /> </p>
 
