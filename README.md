@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogtayaliyev" alt="ogtayaliyev" /></a> </p>
 
-- 🔭 I’m currently working on **Java Spring Boot et React Js**
+- 🔭 I’m currently working on **Java Spring Boot et Vue Js**
 
-- 🌱 I’m currently learning **Vue JS 3 / Spring Boot / React JS**
+- 🌱 I’m currently specializing  **Vue JS 3 / Spring Boot / Express JS**
 
 - 🤝 I’m looking for help with **Deployement**
   
