@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ogtay</h1>
-<h3 align="center">I'm passionate about back-end development(java(Spring Boot) & Expresse.js) and Front-end(Vue.js,Nuxt.js).</h3>
+<h3 align="center">I'm passionate about back-end development(java(Spring Boot - Spring AI)  and Front-end(Vue.js,React Js).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogtayaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="ogtayaliyev" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java Spring Boot et Vue Js**
 
-- 🌱 I’m currently specializing  **Vue JS 3 / Spring Boot / Express JS**
+- 🌱 I’m currently specializing  **Vue JS 3 / Spring Boot / Python-IA / Odoo integration and developement  **
 
 - 🤝 I’m looking for help with **Deployement**
   
