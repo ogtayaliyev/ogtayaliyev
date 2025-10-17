@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Deployement**
   
-- 🌐 My Portfolio : https://ogtayaliyev.netlify.app/
+- 🌐 My Portfolio : https://ogtay.tech
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogtayaliyev](https://github.com/ogtayaliyev)
 
